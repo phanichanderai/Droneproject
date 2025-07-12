@@ -6,7 +6,7 @@ const drones = [
     id: 1,
     name: "AeroX Pro",
     price: "$2,999",
-    image: "https://images.unsplash.com/photo-1576238842718-3aced1d50b57?w=400&h=300&fit=crop",
+    image: "https://flyingmag1.b-cdn.net/wp-content/uploads/sites/2/2024/12/travel-drones.jpg",
     specs: {
       camera: "4K Ultra HD",
       battery: "45 min flight",
@@ -19,7 +19,7 @@ const drones = [
     id: 2,
     name: "SkyLite Mini",
     price: "$899",
-    image: "https://images.unsplash.com/photo-1551808525-65dae15ee5e9?w=400&h=300&fit=crop",
+    image: "https://www.drone-actu.fr/wp-content/uploads/2025/03/Flotte-de-drones-en-vol-desertique.jpg",
     specs: {
       camera: "2.7K HD",
       battery: "30 min flight",
@@ -32,7 +32,7 @@ const drones = [
     id: 3,
     name: "Titan Elite",
     price: "$4,599", 
-    image: "https://images.unsplash.com/photo-1508614999368-9260051292e5?w=400&h=300&fit=crop",
+    image: "https://images.pexels.com/photos/336232/pexels-photo-336232.jpeg",
     specs: {
       camera: "6K Cinema",
       battery: "60 min flight",
