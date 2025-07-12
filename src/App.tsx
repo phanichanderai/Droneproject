@@ -13,7 +13,7 @@ const App: React.FC = () => (
     <DroneShowcase />
     <FeaturesSection />
     <Footer />
-    
+    <DroneBackground />
   </div>
 );
 
