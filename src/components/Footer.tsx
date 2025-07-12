@@ -46,9 +46,9 @@ export const Footer = () => {
           <div>
             <h3 className="text-lg font-semibold text-white mb-4">Contact</h3>
             <ul className="space-y-2 text-gray-300">
-              <li>contact@dronevision.com</li>
-              <li>+1 (555) 123-4567</li>
-              <li>123 Innovation Drive<br />Tech Valley, CA 94000</li>
+              <li>phanimallampally@gmail.com</li>
+              <li>+91 6301466859</li>
+              <li>drone technology<br />5100 dallas hwy</li>
             </ul>
           </div>
         </div>
